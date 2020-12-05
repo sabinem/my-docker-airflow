@@ -25,5 +25,5 @@ sftp-config.json
 # Python
 __pycache__
 
-# dag output assignment 1
-test_dir
+# outputs
+outputs
