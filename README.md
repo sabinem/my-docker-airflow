@@ -17,3 +17,7 @@ Here you can find the original documentation from when the repo was forked
 See here for how to start and clean the airflow installation
 
 [docs/docker.md](docs/docker.md)
+
+## Udemy course
+
+- [docs/assigment1.md](docs/assigment1.md)
