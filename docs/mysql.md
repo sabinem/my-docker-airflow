@@ -20,3 +20,11 @@ cryptography.fernet.InvalidToken
 ```
 
 - check the connection and repair it if needed.
+
+### File permission issues
+
+solved them with
+
+```
+chmod 777 <dir>
+```
