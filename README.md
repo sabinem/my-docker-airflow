@@ -21,3 +21,13 @@ See here for how to start and clean the airflow installation
 ## Udemy course
 
 - [docs/assigment1.md](docs/assigment1.md)
+
+## Troubleshooting 
+
+### file permission issues
+
+In the end I changed the file permissions of the directory with `chmod 777 <dir>`
+
+### sql connection issues
+
+see [mysql.md](docs/mysql.md)
