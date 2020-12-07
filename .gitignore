@@ -27,3 +27,6 @@ __pycache__
 
 # outputs
 outputs
+store_files/location_wise_profit_*
+store_files/store_wise_profit_*
+store_files/raw_store_transactions_*
